@@ -23,3 +23,4 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
     * http://coj.uci.cu/24h/problem.xhtml?pid=2979[COJ: 2979 -- Another Sorting Problem]
 - 31 de enero, 2018.
     * http://www.spoj.com/problems/AP2/[SPOJ: AP2 -- Complete The Series]
+    * http://www.spoj.com/problems/HPYNOS/[SPOJ: HPYNOS - Happy Numbers I]
