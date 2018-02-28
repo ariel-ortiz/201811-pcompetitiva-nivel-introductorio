@@ -24,6 +24,6 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
 - 31 de enero, 2018.
     * http://www.spoj.com/problems/AP2/[SPOJ: AP2 -- Complete The Series]
     * http://www.spoj.com/problems/HPYNOS/[SPOJ: HPYNOS - Happy Numbers I]
-- 14 de febrero, 2018.
+- 28 de febrero, 2018.
     * http://coj.uci.cu/24h/problem.xhtml?pid=1157[COJ: 1157 -- u Calculate e]
     * http://coj.uci.cu/24h/problem.xhtml?pid=1077[COJ: 1077 -- The 3n + 1 Problem]
