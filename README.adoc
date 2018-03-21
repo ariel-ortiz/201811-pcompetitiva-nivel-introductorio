@@ -31,3 +31,5 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
     * http://coj.uci.cu/24h/problem.xhtml?pid=1043[COJ: 1043 -- Simple Dishes]
 - 14 de marzo, 2018.
     * http://www.spoj.com/problems/MUL2COM/[SPOJ: MUL2COM -- Binary multiplication]
+- 21 de marzo, 2018.
+    * http://www.spoj.com/problems/ONP/[SPOJ: ONP -- Transform the Expression] 
